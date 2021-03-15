@@ -38,7 +38,7 @@ layerSwitcher.showPanel();
 
 
     var searchLayer = new SearchLayer({
-      layer: lyr_SDv2SIGNALISATIONGMVA_1,
+      layer: lyr_SIGNALISATIONTOURISTIQUEGMVA_1,
       colName: 'Id_mat_2',
       zoom: 10,
       collapsed: true,
